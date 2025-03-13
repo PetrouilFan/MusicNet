@@ -1,0 +1,4 @@
+.cache
+library/*
+settings.py
+__pycache__/

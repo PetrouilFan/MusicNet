@@ -37,8 +37,7 @@ MusicNet is a Python-based platform for downloading, analyzing, and visualizing 
 
 The project generates interactive 3D visualizations that can be explored in your browser:
 
-- [View 3D Feature Visualization](https://htmlpreview.github.io/?https://github.com/PetrouilFan/musicnet/blob/main/visualizations/music_features_3d.html) - Explore the audio features in 3D space
-- [View Feature Matrix](https://htmlpreview.github.io/?https://github.com/PetrouilFan/musicnet/blob/main/visualizations/feature_matrix.html) - See the relationships between different audio features
+- [View 3D Feature Visualization](https://htmlpreview.github.io/?https://github.com/PetrouilFan/musicnet/blob/main/visualizations/music_features_3d.html) - Explore the audio features in 3D space (takes a few seconds to load)
 
 ## Requirements
 
